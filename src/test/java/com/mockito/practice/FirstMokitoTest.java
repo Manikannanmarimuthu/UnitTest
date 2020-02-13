@@ -9,7 +9,7 @@ public class FirstMokitoTest {
 	HelloWorld cusCre = new HelloWorld();
 
 	@Test
-	public void test() {
+	public void testwithValidValues() {
 		cusCre.helloWorld("Mani");
 	}
 
